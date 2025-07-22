@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+.DS_Store
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Packages
+*.swp
+*~
+tmp*
+/tmp
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+
+# Secrets
+.env
